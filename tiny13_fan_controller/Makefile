@@ -1,5 +1,5 @@
 #Author: Siarhei Baldzenka (sbaldzenka)
-#Data  : 14.08.2022
+#Data  : 02.11.2022
 #E-mail: venera.electronica@gmail.com
 
 MCU=attiny13
@@ -8,7 +8,7 @@ CC=avr-gcc
 OBJCOPY=avr-objcopy
 CFLAGS=-mmcu=${MCU} -DF_CPU=${F_CPU} -Os
 TARGET=main
-SRC=src/main.c
+SRC=src/main.c src/init_mcu.c
 
 #AVRDUDE
 PROGRAMMER=usbasp

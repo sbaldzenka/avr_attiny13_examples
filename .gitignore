@@ -2,3 +2,6 @@ tiny13_led_blink/build/
 tiny13_led_blink_timer0/build/
 tiny13_pwm/build/
 tiny13_watchdog_timer/build/
+tiny13_fan_controller/build/
+tiny13_led_garland/build/
+tiny13_night_light/build/

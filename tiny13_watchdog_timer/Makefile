@@ -1,4 +1,4 @@
-#Author: sboldenko
+#Author: Siarhei Baldzenka (sbaldzenka)
 #Data  : 14.08.2022
 #E-mail: venera.electronica@gmail.com
 
